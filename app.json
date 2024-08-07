@@ -83,7 +83,7 @@
       },
       "USE_SHORTLINK":{
         "description":"Enter True for enabling this feature",
-        "value": "False",
+        "value": "",
         "required": false
       },
       "SHORTLINK_API_URL": {
